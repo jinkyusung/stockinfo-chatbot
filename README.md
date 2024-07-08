@@ -1,4 +1,4 @@
-# Telegram chatbot
+# StockInfo Chatbot in Telegram
 > __Final Project2__ of Computational Math
 
 텔레그램 메신저를 이용하여 적절한 주제를 선택하여 봇을 제작하시오 (단순 Web Crawling 프로그램 지양).
